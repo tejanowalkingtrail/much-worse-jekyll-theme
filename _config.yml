@@ -6,7 +6,7 @@ permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
 url: "https://tejanowalkingtrail.github.io/"     # the base hostname & protocol for your site
-baseurl: "/much-worse-jekyll-theme"                   # the subpath of your site, e.g. /blog
+baseurl: "/tejanowalkingtrail.github.io"                   # the subpath of your site, e.g. /blog
 
 author:
     name:
