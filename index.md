@@ -12,7 +12,7 @@ This site is in support of the the Tejano Trails App project submission. The app
 
 Charles Thomas <br />
 Portfolio: [charlesleroythomasjr.tech] <br />
-Email: [cityplanningtech@gmail.com]
+Email: [cityplanningtech@gmail.com]<br />
 Blog: [cityplanningtech.com]: http://charlesleroythomasjr.tech/<br />
 
 
