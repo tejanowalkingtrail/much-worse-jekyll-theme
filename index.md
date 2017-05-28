@@ -6,15 +6,15 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+This site is in support of the the Tejano Trails App project submission. The app itself can  be found here. The app is an ArcGIS online application built around a web map of the sites listed in the Tejano Trails PDF. This site will list the items that will need to be worked on by team from the Austin Hack for Change event  
 
 ## Contact
 
 Rebel base <br />
-[Yavin] <br />
+[charlesleroythomasjr.tech] <br />
 Galaxy far far away<br />
-Email: [chewy@rebel.com]
+Email: [cityplanningtech@gmail.com]
 
 
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+[Yavin]: http://charlesleroythomasjr.tech/
+[cityplanningtech@gmail.com]: mailto:cityplanningtech@gmail.com
