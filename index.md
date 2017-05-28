@@ -12,9 +12,10 @@ This site is in support of the the Tejano Trails App project submission. The app
 
 Charles Thomas <br />
 Portfolio: [charlesleroythomasjr.tech] <br />
-Galaxy far far away<br />
 Email: [cityplanningtech@gmail.com]
+Blog: [cityplanningtech.com]: http://charlesleroythomasjr.tech/<br />
 
 
 [charlesleroythomasjr.tech]: http://charlesleroythomasjr.tech/
 [cityplanningtech@gmail.com]: mailto:cityplanningtech@gmail.com
+[cityplanningtech.com]: http://cityplanningtech.com
