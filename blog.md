@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-Here is the much awaited blog.
+A blog will be added for the Austin Hack for Change Event.
 
 <ul class="listing">
 {% for post in site.posts %}
