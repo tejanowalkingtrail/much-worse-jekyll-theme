@@ -10,7 +10,7 @@ pubs:
       note:    "revised2013."
       year:    "2013"
       url:     "https://www.preservationaustin.org/uploads/Tejano_Trail_revised2013.pdf"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+      image:   "images/photo.jpg"
 
 
     - title:   "Paper title in 3-7 words that sound like Clingon"
