@@ -17,12 +17,12 @@ The creator of this site and the app was in no way involved in the creation of t
 Charles Thomas <br />
 Portfolio: [charlesleroythomasjr.tech] <br />
 Email: [cityplanningtech@gmail.com]<br />
-Blog: [cityplanningtech.com]<br />
+Portfolio: [charlesleroythomasjr.tech]<br />
 
 
 [charlesleroythomasjr.tech]: http://charlesleroythomasjr.tech/
 [cityplanningtech@gmail.com]: mailto:cityplanningtech@gmail.com
-[cityplanningtech.com]: http://cityplanningtech.com
+[charlesleroythomasjr.tech]: http://charlesleroythomasjr.tech.com
 [atxhackforchange.org]: http://atxhackforchange.org/
 [arcg.is/2mqx9Ez]: http://arcg.is/2mqx9Ez
 [Tejano_Trail_revised2013.pdf]: https://www.preservationaustin.org/uploads/Tejano_Trail_revised2013.pdf
