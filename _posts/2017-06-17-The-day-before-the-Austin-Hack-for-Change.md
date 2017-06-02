@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Chewybaca is talking in his sleep"
-description: "Wooky musings"
-categories: ["banter", "thoughts", "dreams", "fears"]
-location: "Galaxy far far away"
+title: "The day before the Austin Hack for Change"
+description: "Whoa"
+categories: ["banter", "thoughts", "fears"]
+location: "Austin, Tx"
 ---
 
 And I'm still putting everything together. Really need some help tomorrow!!!!!
