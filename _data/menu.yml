@@ -1,13 +1,4 @@
-- title: "Research"
-  href: "/research/"
-
-- title: "CV"
-  href: "/cv/"
-
-- title: "Misc"
-  href: "/misc/"
-
-- title: "Submenu"
+- title: "ToDo"
   subcategories:
     - subtitle: "Item 1"
       subhref: "/misc/item-1/"
