@@ -22,7 +22,7 @@ Portfolio: [charlesleroythomasjr.tech]<br />
 
 [charlesleroythomasjr.tech]: http://charlesleroythomasjr.tech/
 [cityplanningtech@gmail.com]: mailto:cityplanningtech@gmail.com
-[charlesleroythomasjr.tech]: http://charlesleroythomasjr.tech.com
+[charlesleroythomasjr.tech]: http://charlesleroythomasjr.tech
 [atxhackforchange.org]: http://atxhackforchange.org/
 [arcg.is/2mqx9Ez]: http://arcg.is/2mqx9Ez
 [Tejano_Trail_revised2013.pdf]: https://www.preservationaustin.org/uploads/Tejano_Trail_revised2013.pdf
