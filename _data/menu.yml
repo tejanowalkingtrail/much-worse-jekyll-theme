@@ -1,9 +1,13 @@
 - title: "To Do list"
   subcategories:
-    - subtitle: "Add text"
+    - subtitle: "add GPS capability"
       subhref: "/item-1/"
-    - subtitle: "ArcGIS JavaScript"
+    - subtitle: "Add historic maps"
       subhref: "/item-2/"
+    - subtitle: "Add text"
+      subhref: "/item-3/"
+    - subtitle: "ArcGIS JavaScript"
+      subhref: "/item-4/"
 
 - title: "Blog"
   href: "/blog/"
